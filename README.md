@@ -1,5 +1,4 @@
 # MemoryLeakRefereciaCircular
-Projeto que mostra como corrigir vazamento de memoria em referencia circular do delphi
 
 Fala radzeiros e radzeiras, tudo certo? Essa semana estava falando com um colega e ele apresentou uma situação, até então não conhecia a mesma, então resolvi fazer esse post para compartilhar com vocês.
 
